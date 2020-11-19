@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chào mừng tới blog cá nhân của Nguyễn Tấn Phát
 
 You can use the [editor on GitHub](https://github.com/nguyentanphatblog/.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
